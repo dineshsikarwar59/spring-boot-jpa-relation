@@ -27,6 +27,7 @@ Here:
 - The key point is Person can exist without passport 
 - but passport can't exist without person 
 - means person_id should be inside passport table.
+- foreign id always comes inside child table 
 
 - -----
 -------
